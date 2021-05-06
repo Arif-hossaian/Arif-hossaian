@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at Bangladesh institute of Science & Technology(BIST).
 - 💼 &nbsp; Working as a Temporary Front-end Developer at Tickets4travel company.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Cycling as hobbies/side hustles.
+- ✍️ &nbsp; Cycling as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
