@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Developing software and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Bangladesh institute of Science & Technology(BIST).
-- 💼 &nbsp; Worked as a Temporary Front-end Developer at Tickets4travel company.
+- 💼 &nbsp; Worked as a Temporary Front-end Developer at Traideas.
 - 🌱 &nbsp; Eager to learn more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - 🚲 &nbsp; Cycling as hobbies.
 
