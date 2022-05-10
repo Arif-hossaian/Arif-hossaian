@@ -1,6 +1,8 @@
 
 <h2> Hey there! I'm Arif-hossaian.</h2>
 
+<a href="https://app.daily.dev/arif42136"><img src="https://api.daily.dev/devcards/ee8418e594004e03ab5715b199efdba6.png?r=l5u" width="400" alt="Arif's Dev Card"/></a>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Developing software and quick hacks.
