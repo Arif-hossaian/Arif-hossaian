@@ -5,11 +5,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Developing software and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Bangladesh institute of Science & Technology(BIST).
-- 💼 &nbsp; Worked as a Freelancer.
+- 🤔 &nbsp; Developing software.
+- 🎓 &nbsp; Studied Computer Science and Engineering at Bangladesh institute of Science & Technology(BIST).
+- 💼 &nbsp; Workes as a Freelancer.
 - 🌱 &nbsp; Eager to learn more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 🚲 &nbsp; Cycling as hobbies.
+- 🚲 &nbsp; Cycling as hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
